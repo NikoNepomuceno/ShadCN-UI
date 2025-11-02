@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { AnimatedHeadline } from "@/components/AnimatedHeadline";
-import { AnimatedTestimonials } from "@/components/AnimatedTestimonials";
+import { AnimatedTestimonials, type Testimonial } from "@/components/AnimatedTestimonials";
 import { AnimatedFeatures } from "@/components/AnimatedFeatures";
 import { AnimatedPricing } from "@/components/AnimatedPricing";
 import { AnimatedContact } from "@/components/AnimatedContact";

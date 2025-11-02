@@ -7,7 +7,7 @@ import { Card, CardContent } from "@/components/ui/card";
 
 gsap.registerPlugin(ScrollTrigger);
 
-interface Testimonial {
+export interface Testimonial {
   name: string;
   quote: string;
   company: string;
